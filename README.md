@@ -1,6 +1,6 @@
 # Moscow Time
 
-This is a shell function to quickly get Moscow time and block height copied to clipboard.
+This is a shell function to quickly get the price of one dollar in sats and the current block height copied to clipboard.
 
 Simply paste the content of [`moscow_time.sh`](moscow_time.sh) into your shell configuration file or run the following command in the terminal:
 
